@@ -1,6 +1,6 @@
 # Yasfmi
 
-TODO: Write a gem description
+gem description
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+usage instructions here
 
 ## Contributing
 

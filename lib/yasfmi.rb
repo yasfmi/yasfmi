@@ -1,11 +1,5 @@
 require "yasfmi/version"
+require "yasfmi/extention/object"
 
 module Yasfmi
-  def self.hello
-    'hello'
-  end
-
-  def thanks
-    'thanks'
-  end
 end

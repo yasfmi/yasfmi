@@ -2,3 +2,6 @@
 require 'rubygems'
 require 'yasfmi'
 
+def nakanishi
+  "中西"
+end

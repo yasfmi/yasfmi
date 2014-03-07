@@ -1,5 +1,11 @@
 require "yasfmi/version"
 
 module Yasfmi
-  # Your code goes here...
+  def self.hello
+    'hello'
+  end
+
+  def thanks
+    'thanks'
+  end
 end
